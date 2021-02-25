@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Python package for DSCI 524 individual assignment 1"
 authors = ["Chen Zhao <cz2020@student.ubc.ca>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
